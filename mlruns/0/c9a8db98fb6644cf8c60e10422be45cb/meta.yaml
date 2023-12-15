@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Chest-Cancer-deployment/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC/mlruns/0/c9a8db98fb6644cf8c60e10422be45cb/artifacts
+end_time: 1702626978831
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9a8db98fb6644cf8c60e10422be45cb
+run_name: sedate-trout-3
+run_uuid: c9a8db98fb6644cf8c60e10422be45cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702626966051
+status: 3
+tags: []
+user_id: Prateek

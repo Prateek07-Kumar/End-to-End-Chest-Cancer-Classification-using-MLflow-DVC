@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Chest-Cancer-deployment/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC/mlruns/0/cbd1baf26ea746219ca72939bed60fa5/artifacts
+end_time: 1702626540100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cbd1baf26ea746219ca72939bed60fa5
+run_name: blushing-croc-457
+run_uuid: cbd1baf26ea746219ca72939bed60fa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702626524169
+status: 3
+tags: []
+user_id: Prateek

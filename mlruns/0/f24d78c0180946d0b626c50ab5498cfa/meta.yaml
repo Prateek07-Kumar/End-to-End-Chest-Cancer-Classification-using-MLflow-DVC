@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Chest-Cancer-deployment/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC/mlruns/0/f24d78c0180946d0b626c50ab5498cfa/artifacts
+deleted_time: 1702627089363
+end_time: 1702626927812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f24d78c0180946d0b626c50ab5498cfa
+run_name: merciful-pig-463
+run_uuid: f24d78c0180946d0b626c50ab5498cfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702626920253
+status: 4
+tags: []
+user_id: Prateek
